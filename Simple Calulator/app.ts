@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
-import { exit } from "process";
 
+console.log("----------------Wellcome To CLI Base Calculator Using Inquirer -----------------Coded By Muhammad Awais------------------")
 
 do {
     
