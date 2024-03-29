@@ -1,5 +1,7 @@
 ***************************Important Notes and Command*********************************
+
 Commands For Typescript Starter
+
 tsc --int
 npm init -y
 npm i @types/node -d
