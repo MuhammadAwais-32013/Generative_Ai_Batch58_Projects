@@ -1,4 +1,9 @@
 import inquirer from "inquirer";
+import { exit } from "process";
+
+
+do {
+    
 let calulator:{
    firstNumber:number,
     secondNumber:number,
@@ -27,6 +32,7 @@ let calulator:{
 let {firstNumber,secondNumber,Operator}=calulator
 if (firstNumber && secondNumber && Operator ) {
 let result
+
     if (Operator==="+") {
         result = firstNumber +secondNumber
     }
@@ -56,6 +62,27 @@ let result
     }
     
 console.log(`Your Answer is ${result}`)
-}
+ }
+
+
+ let continueCalu:{
+    continueCal:string 
+ }= await inquirer.prompt([{
+    name:"continueCal",
+    message:"Type y for continue and n for Exist : ",
+    type:"list",
+    choices:['y','n']
+ }]);
+
+let {continueCal}=continueCalu
+ if (continueCal=='n') {
+    
+    console.log("Thank You! Calculation is Existed ")
+    break;
+ }
+
+
+} while (true);
+
 
 
