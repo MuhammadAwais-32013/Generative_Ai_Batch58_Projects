@@ -1,4 +1,4 @@
-***************************Important Notes and Command*********************************
+----------------------------****Important Notes and Command****-----------------------------------
 
 Commands For Typescript Starter
 
