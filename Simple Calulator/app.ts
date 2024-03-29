@@ -69,7 +69,7 @@ console.log(`Your Answer is ${result}`)
     continueCal:string 
  }= await inquirer.prompt([{
     name:"continueCal",
-    message:"Type y for continue and n for Exist : ",
+    message:"Select y for continue and n for Exist : ",
     type:"list",
     choices:['y','n']
  }]);

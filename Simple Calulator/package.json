@@ -1,5 +1,5 @@
 {
-  "name": "simple-calulator",
+  "name": "Cli Calculator",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",

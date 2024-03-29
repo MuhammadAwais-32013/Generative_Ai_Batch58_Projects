@@ -1,5 +1,5 @@
 import inquirer from "inquirer";
-console.log("----------------Wellcome To CLI Base Calculator Using Inquirer -----------------Coded By Muhammad Awais------------------");
+console.log("----------------Wellcome To CLI Base Calculator Using Inquirer -----------------Code By Muhammad Awais------------------");
 do {
     let calulator = await inquirer.prompt([
         {
