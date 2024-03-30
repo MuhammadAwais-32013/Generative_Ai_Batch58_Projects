@@ -1,4 +1,4 @@
-<img width="518" alt="image" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/3297c3c6-85cb-4f48-b341-98efb9716cbb">----------------------------****Important Notes and Command****-----------------------------------
+----------------------------****Important Notes and Command****-----------------------------------
 
 Commands For Typescript Starter
 
