@@ -21,13 +21,13 @@ npm i inquirer
 npm i @types/inquirer -d
 
 ----------------------------****Do below changes in Project***-----------------------------------
+<img width="499" alt="p1" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/20dfe3a4-8e67-41b8-b815-d5f68062336e">
+
+
 <img width="518" alt="p2" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/873268b9-0b12-41c5-8028-fa9ab71925ea">
 
-<img width="499" alt="p1" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/38e069e0-da66-4e6c-a906-0f6bfa3ddb54">
 
-
-
-first type **npm login**
+Then type **npm login**
 
 change the name of project  in the package.json file with what name you want to use for npx link **use lowercase**
 
