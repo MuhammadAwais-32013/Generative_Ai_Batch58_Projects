@@ -1,4 +1,4 @@
-----------------------------****Important Notes and Command****-----------------------------------
+<img width="518" alt="image" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/3297c3c6-85cb-4f48-b341-98efb9716cbb">----------------------------****Important Notes and Command****-----------------------------------
 
 Commands For Typescript Starter
 
@@ -21,9 +21,10 @@ npm i inquirer
 npm i @types/inquirer -d
 
 ----------------------------****Do below changes in Project***-----------------------------------
-<img width="499" alt="p1" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/8b461ae4-dfe7-4929-bb0e-2fdd3c36cc97">
+<img width="518" alt="p2" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/873268b9-0b12-41c5-8028-fa9ab71925ea">
 
-<img width="518" alt="p2" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/d4afaf82-22a9-4bd3-928c-8db95d691732">
+<img width="499" alt="p1" src="https://github.com/MuhammadAwais-32013/Generative_Ai_Batch58_Projects/assets/142881049/38e069e0-da66-4e6c-a906-0f6bfa3ddb54">
+
 
 
 first type **npm login**
@@ -34,4 +35,7 @@ Give access to the npm account
 
 type **npm publish**
 
-type npm publish 
+
+----------------------------****if still get any error Read below Article***-----------------------------------
+
+https://blog.shahednasser.com/how-to-create-a-npx-tool/#create-the-bin-file
