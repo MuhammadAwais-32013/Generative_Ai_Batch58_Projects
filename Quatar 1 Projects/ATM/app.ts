@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.magenta.bold.italic("----------------Wellcome To CLI Base ATM Using Inquirer -----------------Code By Muhammad Awais------------------"))
